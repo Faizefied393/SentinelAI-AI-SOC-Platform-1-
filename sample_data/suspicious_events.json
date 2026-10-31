@@ -1,0 +1,88 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-10-26T12:00:00+00:00",
+      "host": "WIN-LAB-01",
+      "provider": "Microsoft-Windows-Security-Auditing",
+      "event_type": "auth_failure",
+      "source_ip": "192.0.2.20",
+      "username": "administrator",
+      "details": {
+        "event_id": 4625,
+        "message": "Failed sign-in"
+      }
+    },
+    {
+      "timestamp": "2026-10-26T12:00:01+00:00",
+      "host": "WIN-LAB-01",
+      "provider": "Microsoft-Windows-Security-Auditing",
+      "event_type": "auth_failure",
+      "source_ip": "192.0.2.20",
+      "username": "administrator",
+      "details": {
+        "event_id": 4625,
+        "message": "Failed sign-in"
+      }
+    },
+    {
+      "timestamp": "2026-10-26T12:00:02+00:00",
+      "host": "WIN-LAB-01",
+      "provider": "Microsoft-Windows-Security-Auditing",
+      "event_type": "auth_failure",
+      "source_ip": "192.0.2.20",
+      "username": "administrator",
+      "details": {
+        "event_id": 4625,
+        "message": "Failed sign-in"
+      }
+    },
+    {
+      "timestamp": "2026-10-26T12:00:03+00:00",
+      "host": "WIN-LAB-01",
+      "provider": "Microsoft-Windows-Security-Auditing",
+      "event_type": "auth_failure",
+      "source_ip": "192.0.2.20",
+      "username": "administrator",
+      "details": {
+        "event_id": 4625,
+        "message": "Failed sign-in"
+      }
+    },
+    {
+      "timestamp": "2026-10-26T12:00:04+00:00",
+      "host": "WIN-LAB-01",
+      "provider": "Microsoft-Windows-Security-Auditing",
+      "event_type": "auth_failure",
+      "source_ip": "192.0.2.20",
+      "username": "administrator",
+      "details": {
+        "event_id": 4625,
+        "message": "Failed sign-in"
+      }
+    },
+    {
+      "timestamp": "2026-10-26T12:00:05+00:00",
+      "host": "WIN-LAB-01",
+      "provider": "Microsoft-Windows-Security-Auditing",
+      "event_type": "auth_failure",
+      "source_ip": "192.0.2.20",
+      "username": "administrator",
+      "details": {
+        "event_id": 4625,
+        "message": "Failed sign-in"
+      }
+    },
+    {
+      "timestamp": "2026-10-26T12:02:00+00:00",
+      "host": "WIN-LAB-01",
+      "provider": "Microsoft-Windows-Sysmon",
+      "event_type": "process_creation",
+      "source_ip": "192.0.2.20",
+      "username": "administrator",
+      "details": {
+        "event_id": 1,
+        "command_line": "powershell.exe -enc ZQBjAGgAbwA="
+      }
+    }
+  ]
+}
